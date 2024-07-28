@@ -1,0 +1,32 @@
+.cls1{
+    background-color:blueviolet;
+    padding: 30px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    display: block;
+    width: 50px;
+}
+.cls2{
+    background-color:blueviolet;
+    padding: 30px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    display:block;
+    width: 50px;
+    position: relative;
+    top: 12px;
+    left: 30px;
+}
+.cls3{
+    background-color:blueviolet;
+    padding: 30px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    display: block;
+    width: 50px;
+    
+}
+div{
+    display: block;
+
+}
